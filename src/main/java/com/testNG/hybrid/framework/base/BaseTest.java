@@ -17,7 +17,7 @@ import org.testng.annotations.BeforeClass;
 import com.testNG.hybrid.framework.utils.FileUtil;
 
 
-// this comment added through github
+
 public class BaseTest {
 	public static WebDriver driver;
 	FileUtil fileUtil = new FileUtil();;
